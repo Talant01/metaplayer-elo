@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+elo/data.json
+.vscode
+elo/*.ipynb
 
 # C extensions
 *.so
