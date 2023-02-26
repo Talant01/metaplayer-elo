@@ -1,0 +1,34 @@
+{
+    "players": [
+        {
+            "name": "Agurin",
+            "region": "EUROPE",
+            "tagline": "EUW1"
+        },
+        {
+            "name": "Noah7",
+            "region": "EUROPE",
+            "tagline": "EUW1"
+        },
+        {
+            "name": "Porttinari",
+            "region": "AMERICAS",
+            "tagline": "BR1"
+        },
+        {
+            "name": "Zayco",
+            "region": "AMERICAS",
+            "tagline": "BR1"
+        },
+        {
+            "name": "DuplaNazareno",
+            "region": "AMERICAS",
+            "tagline": "BR1"
+        },
+        {
+            "name": "ProDelta",
+            "region": "AMERICAS",
+            "tagline": "BR1"
+        }
+    ]
+}
