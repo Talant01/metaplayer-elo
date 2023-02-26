@@ -5,6 +5,7 @@ __pycache__/
 elo/data.json
 .vscode
 elo/*.ipynb
+.DS_Store
 
 # C extensions
 *.so

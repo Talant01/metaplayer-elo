@@ -4,3 +4,7 @@ REGIONS = {
     'EUROPE': ['EUN1', 'EUW1', 'RU', 'TR1'],
     'SEA': ['OC1']
 }
+
+RATINGS = {
+    
+}

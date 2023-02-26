@@ -1,0 +1,138 @@
+{
+  "attack": {
+    "Assist": {
+      "immobilizeAndKillWithAlly": 5,
+      "kda": 9,
+      "pickKillWithAlly": 7,
+      "firstBloodAssist": 10
+    },
+    "Killing": {
+      "damagePerMinute": 1,
+      "doubleAces": 8,
+      "doubleAces": 8,
+      "immobilizeAndKillWithAlly": 4,
+      "kda": 4,
+      "kda": 10,
+      "knockEnemyIntoTeamAndKill": 10,
+      "killAfterHiddenWithAlly": 8,
+      "killsOnOtherLanesEarlyJungleAsLaner": 8,
+      "killsOnRecentlyHealedByAramPack": 8,
+      "killsUnderOwnTurret": 6,
+      "killsWithHelpFromEpicMonster": 5,
+      "pickKillWithAlly": 6,
+      "takedownsAfterGainingLevelAdvantage": 3,
+      "takedownsBeforeJungleMinionSpawn": 3,
+      "takedownsFirstXMinutes": 5,
+      "takedownsInEnemyFountain": 7,
+      "doubleKills": 8,
+      "firstBloodKill": 10,
+      "killingSprees": 10,
+      "kills": 10,
+      "largestKillingSpree": 10,
+      "largestMultiKill": 9,
+      "quadraKills": 9,
+      "tripleKills": 10
+    },
+    "Damage": {
+      "damageDealtToBuildings": 10,
+      "damageDealtToObjectives": 10,
+      "damageDealtToTurrets": 10,
+      "damageSelfMitigated": 10,
+      "magicDamageDealt": 10,
+      "magicDamageDealt": 10,
+      "physicalDamageDealt": 10,
+      "physicalDamageDealtToChampions": 10,
+      "totalDamageDealt": 10,
+      "totalDamageDealtToChampions": 10,
+      "totalDamageShieldedOnTeammates": 10,
+      "trueDamageDealt": 10,
+      "trueDamageDealtToChampions": 10
+    },
+    "Tower Attack": {
+      "turretPlatesTaken": 10,
+      "turretTakedowns": 10,
+      "turretsTakenWithRiftHerald": 10,
+      "firstTowerAssist": 10,
+      "turretKills": 10
+    },
+    "Death": {
+      "deathsByEnemyChamps": 10,
+      "deathsByEnemyChamps": 10,
+      "kda": 10,
+      "soloKills": 10,
+      "deaths": 10
+    },
+
+    "Immobilization": { "enemyChampionImmobilizations": 10 }
+  },
+  "Defense": {
+    "Death": {
+      "deathsByEnemyChamps": 10,
+      "deathsByEnemyChamps": 10,
+      "kda": 10,
+      "soloKills": 10,
+      "deaths": 10
+    },
+    "Damage": {
+      "damageDealtToBuildings": 10,
+      "damageDealtToObjectives": 10,
+      "damageDealtToTurrets": 10,
+      "damageSelfMitigated": 10,
+      "magicDamageDealt": 10,
+      "magicDamageDealt": 10,
+      "physicalDamageDealt": 10,
+      "physicalDamageDealtToChampions": 10,
+      "totalDamageDealt": 10,
+      "totalDamageDealtToChampions": 10,
+      "totalDamageShieldedOnTeammates": 10,
+      "trueDamageDealt": 10,
+      "trueDamageDealtToChampions": 10
+    },
+    "Defending": {
+      "effectiveHealAndShielding": 3,
+      "survivedThreeImmobilizesInFight": 10,
+      "survivedSingleDigitHpCount": 8,
+      "tookLargeDamageSurvived": 10,
+      "physicalDamageTaken": 10,
+      "totalDamageTaken": 10,
+      "trueDamageTaken": 10
+    },
+    "Healing": { "totalHeal": 10, "totalHealsOnTeammates": 10 }
+  },
+  "difficulty": {
+    "Intelligence": {
+      "visionScoreAdvantageLaneOpponent": 8,
+      "visionScorePerMinute": 10
+    }
+  },
+  "magic": {
+    "Farming": {
+      "alliedJungleMonsterKills": 7,
+      "baronTakedowns": 8,
+      "dragonTakedowns": 8,
+      "dragonTakedowns": 8,
+      "epicMonsterKillsNearEnemyJungler": 5,
+      "epicMonsterKillsWithin30SecondsOfSpawn": 6,
+      "epicMonsterSteals": 4,
+      "epicMonsterStolenWithoutSmite": 4,
+      "goldPerMinute": 10,
+      "soloBaronKills": 7,
+      "teamBaronKills": 7,
+      "teamElderDragonKills": 7,
+      "teamRiftHeraldKills": 7,
+      "goldEarned": 10,
+      "goldSpent": 10,
+      "totalMinionsKilled": 10
+    },
+    "Ward": {
+      "threeWardsOneSweeperCount": 6,
+      "wardTakedowns": 8,
+      "wardTakedowns": 10,
+      "wardTakedownsBefore20M": 10,
+      "wardsGuarded": 10,
+      "detectorWardsPlaced": 10,
+      "visionWardsBoughtInGame": 10,
+      "wardsPlaced": 10
+    }
+  }
+}
